@@ -1,2 +1,2 @@
-# app_clima_corregida
+# mi-proyecto-clima
 version corregida de la aplicacion clima
